@@ -9,7 +9,7 @@ export default function Dictionary() {
   }
   function handleKeywordChange(event) {
     setKeyword(event.target.value);
-  }
+  }npm
 
   return (
     <div className="Dictionary">
