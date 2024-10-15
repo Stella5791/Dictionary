@@ -1,0 +1,14 @@
+.App {
+  padding: 20px;
+  margin: 30px;
+}
+.App .container {
+  width: 600px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.App-footer {
+  margin-top: 50px;
+}
