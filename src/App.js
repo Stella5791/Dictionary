@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <main>
-          <h1>Enter the word in the box below</h1>
+          
           <Dictionary />
         </main>
         <footer className="App-footer">
