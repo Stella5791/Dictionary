@@ -1,6 +1,7 @@
 .App {
   padding: 20px;
-  margin: 30px;
+  margin: 0 auto;
+  max-width: 960px;
 }
 .App .container {
   width: 600px;
