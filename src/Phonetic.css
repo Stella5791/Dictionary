@@ -1,18 +1,4 @@
-.Phonetic {
-  margin: 25px 0;
-}
 .Phonetic a {
-  color: #cd8c3d;
-  border: 1px solid #cd8c3d;
-  text-decoration: none;
-  padding: 8px 15px;
+  color: #978778;
   font-size: 12px;
-  font-weight: bold;
-  margin-right: 10px;
-  border-radius: 20px;
-  transition: all 150ms ease-in-out;
-}
-.Phonetic a:hover {
-  background: #cd8c3d;
-  color: white;
 }

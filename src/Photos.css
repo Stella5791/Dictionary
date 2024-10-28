@@ -1,4 +1,7 @@
 .Photos img {
-  border: 4px;
   margin-bottom: 20px;
+  border-radius: 2px;
+}
+.Photos .col {
+  background: none;
 }

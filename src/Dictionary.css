@@ -1,30 +1,40 @@
-.Dictionary section {
-  background-color: white;
-  padding: 30px;
+.Dictionary .header {
+  background-image: url("./vintagedictionaryclearfieldheader2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 50px 0;
+  border-radius: 5px;
+}
+
+.Dictionary .form {
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+  background-color: rgba(237, 210, 187, 0.8);
   border-radius: 6px;
-  box-shadow: 0 10px 10px rgba(0 0 0 / 5%);
-  margin: 20px 0;
 }
 
 .Dictionary h1 {
   font-size: 35px;
   font-weight: bold;
   text-align: center;
-  padding-bottom: 10px;
 }
 .Dictionary input {
   width: 100%;
   line-height: 3;
   padding: 6px 10 px;
-  color: #cd8c3d;
+  color: #978778;
   border-radius: 6px;
-  border: 1px solid #cd8c3d;
+  border: 1px solid #978778;
+  background-color: antiquewhite;
 }
 
 .Dictionary .hint {
-  font-size: 11px;
+  font-size: 20px;
   margin-top: 10px;
-  color: #cd8c3d;
+  text-align: center;
+  color: #978778;
   font-style: italic;
   font-weight: bold;
 }

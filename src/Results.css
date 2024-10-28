@@ -1,5 +1,18 @@
+.Results {
+  margin: 20px 0;
+  background-color: #fcf7f3;
+  border-radius: 5px;
+}
 .Results h2 {
-  font-size: 36px;
+  font-size: 60px;
   font-weight: bold;
-  line-height: 1.5;
+  padding-top: 50px;
+  margin-bottom: 0;
+}
+.Results section {
+  margin-left: 50px;
+  padding-right: 40px;
+}
+.Results hr {
+  height: 3px;
 }
