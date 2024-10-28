@@ -21,13 +21,15 @@ export default function Result(props) {
             </div>
           </div>
           <hr />
-          {props.results.meanings.map(function (meaning, index) {
-            return (
-              <div key={index}>
-                <Meaning meaning={meaning} />
-              </div>
-            );
-          })}
+          <div className="meaning">
+            {props.results.meanings.map(function (meaning, index) {
+              return (
+                <div key={index}>
+                  <Meaning meaning={meaning} />
+                </div>
+              );
+            })}
+          </div>
         </section>
       </div>
     );

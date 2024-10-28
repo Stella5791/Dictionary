@@ -16,3 +16,12 @@
 .Results hr {
   height: 3px;
 }
+
+.Results .word {
+  padding-bottom: 30px;
+}
+
+.Results .meaning {
+  padding-bottom: 10px;
+  padding-left: 30px;
+}

@@ -55,6 +55,7 @@ export default function Dictionary(props) {
         </section>
         <Results results={results} />
         <Photos photos={photos} />
+        <hr />
       </div>
     );
   } else {
