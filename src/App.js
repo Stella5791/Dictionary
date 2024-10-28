@@ -13,7 +13,11 @@ export default function App() {
         <footer className="App-footer">
           <small>
             Coded by{" "}
-            <a href="https://github.com/Stella5791/Dictionary" target="_blank">
+            <a
+              href="https://github.com/Stella5791/Dictionary"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               Stella Bullo{" "}
             </a>
             as open-source and stored on <a href="/">Netlify</a>{" "}
