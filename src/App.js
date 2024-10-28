@@ -20,7 +20,8 @@ export default function App() {
             >
               Stella Bullo{" "}
             </a>
-            as open-source and stored on <a href="/">Netlify</a>{" "}
+            as open-source and stored on{" "}
+            <a href="https://playful-gecko-ed5205.netlify.app/">Netlify</a>{" "}
           </small>
         </footer>
       </div>
